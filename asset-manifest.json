@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sergioesc_socialDashboard/static/css/main.4bcf22a3.css",
-    "main.js": "/sergioesc_socialDashboard/static/js/main.5b3bf2ba.js",
+    "main.css": "/sergioesc_socialDashboard/static/css/main.f721e29a.css",
+    "main.js": "/sergioesc_socialDashboard/static/js/main.79d5f94a.js",
     "index.html": "/sergioesc_socialDashboard/index.html",
-    "main.4bcf22a3.css.map": "/sergioesc_socialDashboard/static/css/main.4bcf22a3.css.map",
-    "main.5b3bf2ba.js.map": "/sergioesc_socialDashboard/static/js/main.5b3bf2ba.js.map"
+    "main.f721e29a.css.map": "/sergioesc_socialDashboard/static/css/main.f721e29a.css.map",
+    "main.79d5f94a.js.map": "/sergioesc_socialDashboard/static/js/main.79d5f94a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bcf22a3.css",
-    "static/js/main.5b3bf2ba.js"
+    "static/css/main.f721e29a.css",
+    "static/js/main.79d5f94a.js"
   ]
 }

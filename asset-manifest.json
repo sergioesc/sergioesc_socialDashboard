@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sergioesc_socialDashboard/static/css/main.4bcf22a3.css",
+    "main.js": "/sergioesc_socialDashboard/static/js/main.5b3bf2ba.js",
+    "index.html": "/sergioesc_socialDashboard/index.html",
+    "main.4bcf22a3.css.map": "/sergioesc_socialDashboard/static/css/main.4bcf22a3.css.map",
+    "main.5b3bf2ba.js.map": "/sergioesc_socialDashboard/static/js/main.5b3bf2ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bcf22a3.css",
+    "static/js/main.5b3bf2ba.js"
+  ]
+}
